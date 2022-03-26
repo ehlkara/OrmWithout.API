@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ehlul\\OneDrive\\Belgeler\\GitHub\\OrmWithout.API\\OrmWithout.API\\OrmWithout.API.csproj": {}
+    "C:\\Users\\ehlul\\OneDrive\\Belgeler\\GitHub\\OrmWithout.API\\OrmWithout.BusinessLogic\\OrmWithout.BusinessLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ehlul\\OneDrive\\Belgeler\\GitHub\\OrmWithout.API\\OrmWithout.API\\OrmWithout.API.csproj": {
+    "C:\\Users\\ehlul\\OneDrive\\Belgeler\\GitHub\\OrmWithout.API\\OrmWithout.BusinessLogic\\OrmWithout.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ehlul\\OneDrive\\Belgeler\\GitHub\\OrmWithout.API\\OrmWithout.API\\OrmWithout.API.csproj",
-        "projectName": "OrmWithout.API",
-        "projectPath": "C:\\Users\\ehlul\\OneDrive\\Belgeler\\GitHub\\OrmWithout.API\\OrmWithout.API\\OrmWithout.API.csproj",
+        "projectUniqueName": "C:\\Users\\ehlul\\OneDrive\\Belgeler\\GitHub\\OrmWithout.API\\OrmWithout.BusinessLogic\\OrmWithout.BusinessLogic.csproj",
+        "projectName": "OrmWithout.BusinessLogic",
+        "projectPath": "C:\\Users\\ehlul\\OneDrive\\Belgeler\\GitHub\\OrmWithout.API\\OrmWithout.BusinessLogic\\OrmWithout.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\ehlul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ehlul\\OneDrive\\Belgeler\\GitHub\\OrmWithout.API\\OrmWithout.API\\obj\\",
+        "outputPath": "C:\\Users\\ehlul\\OneDrive\\Belgeler\\GitHub\\OrmWithout.API\\OrmWithout.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -45,12 +45,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[5.6.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -62,9 +56,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
